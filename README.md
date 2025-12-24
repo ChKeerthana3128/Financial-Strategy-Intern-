@@ -12,8 +12,7 @@ Work Completed:
 •Identified 3 strategic priorities for 2026: CSRD automation, EU Taxonomy readiness, and AI emissions governance
 •Summarized findings in structured Excel sheets with priorities, actions, and references
 
-Files:
-ESG_Regulatory_Strategy_&_ Policy_Analysis.xlsx 
+Files:https://github.com/ChKeerthana3128/Financial-Strategy-Intern-Projects/blob/main/ESG_Regulatory_Strategy_%26_%20Policy_Analysis.xlsx 
 
 ✅ Task 2 – Budget Optimization & Competitive Benchmarking
 Objective:
