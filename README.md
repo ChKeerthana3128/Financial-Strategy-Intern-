@@ -20,7 +20,8 @@ Analyze upcoming EU sustainability regulations and identify key ESG requirements
 * Summarized findings in structured Excel sheets with priorities, actions, and references
 
 **Files:**
-ESG Regulatory Strategy – Excel File
+[ESG Regulatory Strategy Excel File](https://docs.google.com/spreadsheets/d/1lX9S30C35oglAdrxfE_y9amEdX1Scup_/edit?usp=drive_link&ouid=115033186629572988463&rtpof=true&sd=true)
+
 
 ---
 
