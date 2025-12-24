@@ -13,7 +13,7 @@ Work Completed:
 •Summarized findings in structured Excel sheets with priorities, actions, and references
 
 Files:
-(Open the folder named Task-01-Sustainability-Intelligence and upload your files.)
+ESG_Regulatory_Strategy_&_ Policy_Analysis.xlsx 
 
 ✅ Task 2 – Budget Optimization & Competitive Benchmarking
 Objective:
