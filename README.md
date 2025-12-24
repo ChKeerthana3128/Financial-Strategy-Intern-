@@ -59,7 +59,7 @@ Design a focused €100,000 financial plan (with €50,000 grant-funded) aligned
 
 **Files:**
 
-* Upload your files into the folder: Task-03-Grant-Budget-Structuring-Action-Plan
+* https://docs.google.com/spreadsheets/d/1FNA0--0W4LStL5BW_Y9QdorZsG-Cn7yj/edit?usp=sharing&ouid=115033186629572988463&rtpof=true&sd=true *
 
 ---
 
@@ -74,6 +74,3 @@ Design a focused €100,000 financial plan (with €50,000 grant-funded) aligned
 
 ---
 
-# ⭐ NOW it will show bullets exactly as pointers.
-
-If you want, I can also **beautify** it with emojis, spacing, colors, and better formatting for GitHub.
