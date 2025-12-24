@@ -22,10 +22,8 @@ Analyze upcoming EU sustainability regulations and identify key ESG requirements
 **My work:**
 * <a href="https://docs.google.com/spreadsheets/d/1lX9S30C35oglAdrxfE_y9amEdX1Scup_/edit?usp=drive_link&ouid=115033186629572988463&rtpof=true&sd=true" target="_blank">
 Sustainability_Intelligence
-</a>
 * <a href="https://docs.google.com/spreadsheets/d/1lX9S30C35oglAdrxfE_y9amEdX1Scup_/edit?usp=sharing&ouid=115033186629572988463&rtpof=true&sd=true" target="_blank">
 Policy_Monitoring
-</a>
 
 ---
 
