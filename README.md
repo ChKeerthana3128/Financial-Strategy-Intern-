@@ -1,6 +1,7 @@
 
 
 **Financial & Strategy Internship Portfolio – Alive Organizations (2025)**
+
 This repository contains all the work I completed during my Financial & Strategy Internship at Alive Organizations (Remote).
 It includes ESG regulatory analysis, sustainability intelligence, financial planning, budget optimization, competitive benchmarking, and grant-aligned budgeting tasks.
 
@@ -20,7 +21,7 @@ Analyze upcoming EU sustainability regulations and identify key ESG requirements
 
 **Files:**
 
-* [https://github.com/ChKeerthana3128/Financial-Strategy-Intern-Projects/blob/main/ESG_Regulatory_Strategy_%26_%20Policy_Analysis.xlsx](https://github.com/ChKeerthana3128/Financial-Strategy-Intern-Projects/blob/main/ESG_Regulatory_Strategy_%26_%20Policy_Analysis.xlsx)
+* https://docs.google.com/spreadsheets/d/1lX9S30C35oglAdrxfE_y9amEdX1Scup_/edit?usp=drive_link&ouid=115033186629572988463&rtpof=true&sd=true *
 
 ---
 
@@ -38,7 +39,8 @@ Assess Alive’s €3M budget for optimization and evaluate competitor cost stru
 
 **Files:**
 
-* Upload your files into the folder: Task-02-Budget-Optimization-Competition-Analysis
+* https://docs.google.com/spreadsheets/d/1GeHQ5P43-gx7r-c-VKbKkHVzx6XvnX0t/edit?usp=drive_link&ouid=115033186629572988463&rtpof=true&sd=true *
+* https://docs.google.com/spreadsheets/d/11Zok7We7sUfkamhYDfow-H25f6fQdlRZ/edit?usp=drive_link&ouid=115033186629572988463&rtpof=true&sd=true *
 
 ---
 
