@@ -7,10 +7,10 @@ Objective:
 Analyze upcoming EU sustainability regulations and identify key ESG requirements and 2026 priorities to support Alive’s sustainability strategy.
 
 Work Completed:
-• Reviewed ESPR, CSDDD, and the Green Claims Directive and extracted five critical regulatory requirements
-• Mapped regulatory requirements to GRI 308 and GRI 414 supplier assessment standards
-• Identified three strategic priorities for 2026: CSRD automation, EU Taxonomy readiness, and AI emissions governance
-• Summarized all findings in structured Excel sheets with priorities, actions, and references
+-Reviewed ESPR, CSDDD, and the Green Claims Directive and extracted five critical regulatory requirements
+-Mapped regulatory requirements to GRI 308 and GRI 414 supplier assessment standards
+-Identified three strategic priorities for 2026: CSRD automation, EU Taxonomy readiness, and AI emissions governance
+-Summarized all findings in structured Excel sheets with priorities, actions, and references
 
 Files:https://github.com/ChKeerthana3128/Financial-Strategy-Intern-Projects/blob/main/ESG_Regulatory_Strategy_%26_%20Policy_Analysis.xlsx 
 
