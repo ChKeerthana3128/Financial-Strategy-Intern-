@@ -19,9 +19,9 @@ Analyze upcoming EU sustainability regulations and identify key ESG requirements
 * Identified three strategic priorities for 2026: CSRD automation, EU Taxonomy readiness, and AI emissions governance
 * Summarized findings in structured Excel sheets with priorities, actions, and references
 
-**Files:**
-[ESG Regulatory Strategy Excel File](https://docs.google.com/spreadsheets/d/1lX9S30C35oglAdrxfE_y9amEdX1Scup_/edit?usp=drive_link&ouid=115033186629572988463&rtpof=true&sd=true)
-
+**My work:**
+[Sustainability_Intelligence](https://docs.google.com/spreadsheets/d/1lX9S30C35oglAdrxfE_y9amEdX1Scup_/edit?usp=drive_link&ouid=115033186629572988463&rtpof=true&sd=true)
+[Policy_Monitoring](https://docs.google.com/spreadsheets/d/1lX9S30C35oglAdrxfE_y9amEdX1Scup_/edit?usp=sharing&ouid=115033186629572988463&rtpof=true&sd=true)
 
 ---
 
