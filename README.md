@@ -1,38 +1,4 @@
-You're seeing this **because GitHub Markdown does NOT treat “•” as a bullet point.**
-GitHub only recognizes **hyphens (-)** or **asterisks (*)** as list items.
 
-So your content is appearing like plain text — **not bullets**.
-
----
-
-# ✅ FIX: Use `-` instead of `•`
-
-Example:
-
-❌ This will NOT show as a pointer:
-
-```
-• Reviewed ESPR, CSDDD…
-```
-
-✔ This WILL show as a pointer in GitHub:
-
-```
-- Reviewed ESPR, CSDDD…
-```
-
----
-
-# ✅ I will convert your entire README content into **GitHub-valid bullet points**
-
-Ready to paste directly.
-
----
-
-**Paste THIS into GitHub**
-(Everything will show perfectly as bullet lists.)
-
----
 
 **Financial & Strategy Internship Portfolio – Alive Organizations (2025)**
 This repository contains all the work I completed during my Financial & Strategy Internship at Alive Organizations (Remote).
