@@ -20,8 +20,7 @@ Analyze upcoming EU sustainability regulations and identify key ESG requirements
 * Summarized findings in structured Excel sheets with priorities, actions, and references
 
 **Files:**
-
-* https://docs.google.com/spreadsheets/d/1lX9S30C35oglAdrxfE_y9amEdX1Scup_/edit?usp=drive_link&ouid=115033186629572988463&rtpof=true&sd=true *
+ESG Regulatory Strategy – Excel File
 
 ---
 
@@ -39,8 +38,8 @@ Assess Alive’s €3M budget for optimization and evaluate competitor cost stru
 
 **Files:**
 
-* https://docs.google.com/spreadsheets/d/1GeHQ5P43-gx7r-c-VKbKkHVzx6XvnX0t/edit?usp=drive_link&ouid=115033186629572988463&rtpof=true&sd=true *
-* https://docs.google.com/spreadsheets/d/11Zok7We7sUfkamhYDfow-H25f6fQdlRZ/edit?usp=drive_link&ouid=115033186629572988463&rtpof=true&sd=true *
+* https://docs.google.com/spreadsheets/d/1GeHQ5P43-gx7r-c-VKbKkHVzx6XvnX0t/edit?usp=drive_link&ouid=115033186629572988463&rtpof=true&sd=true 
+* https://docs.google.com/spreadsheets/d/11Zok7We7sUfkamhYDfow-H25f6fQdlRZ/edit?usp=drive_link&ouid=115033186629572988463&rtpof=true&sd=true 
 
 ---
 
@@ -59,7 +58,7 @@ Design a focused €100,000 financial plan (with €50,000 grant-funded) aligned
 
 **Files:**
 
-* https://docs.google.com/spreadsheets/d/1FNA0--0W4LStL5BW_Y9QdorZsG-Cn7yj/edit?usp=sharing&ouid=115033186629572988463&rtpof=true&sd=true *
+* https://docs.google.com/spreadsheets/d/1FNA0--0W4LStL5BW_Y9QdorZsG-Cn7yj/edit?usp=sharing&ouid=115033186629572988463&rtpof=true&sd=true 
 
 ---
 
